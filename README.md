@@ -3,8 +3,13 @@
 
 
 # Azure Services Used
-* Azure Static Web App
-* Azure Health Bot
+## Azure Static Web App
+##Azure Health Bot
+
+Azure Static Web App Service helps developer to deploy static web apps after deploying files, we can also scale the web app using Azure static web app service.
+Azure Health Bot for Central India region was used by sepcifying web chat secret key, health bot used in my web app helps to engage with patients, provide health information, and deliver personalized care.
+
+
 
 
 ## Static Webapp : https://orange-mud-0def1f300.3.azurestaticapps.net/
@@ -23,8 +28,8 @@
 
 
 # Azure Heath Bot Portal
-<img width="1289" alt="Screenshot 2023-04-26 at 21 28 19" src="https://user-images.githubusercontent.com/131891490/234633550-a188059d-da94-4c8f-88a0-892388774069.png">
 
+<img width="776" alt="Screenshot 2023-04-27 at 02 16 39" src="https://user-images.githubusercontent.com/131891490/234698855-f618442a-4483-41e8-bdb7-7ee997ce7bd6.png">
 
 
 
