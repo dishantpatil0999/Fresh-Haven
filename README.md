@@ -18,9 +18,9 @@
 
 
 ### Description:
-   Orthoc is a medical website that provides information and resources to patients and healthcare professionals about orthopedic surgery. The website offers a range of resources to help patients understand their surgical options and prepare for surgery. <br />
-   Orthoc can be a valuable resource for patients and healthcare professionals alike, providing accurate and reliable information about orthopedic surgery to help patients make informed decisions and achieve the best possible outcomes. <br />
-   Some of the resources that Orthoc may offer could include:  <br />
+   Orthoc is a medical website that provides information and resources to patients and healthcare professionals about  medical treatment . The website offers a range of resources to help patients understand their surgical options and prepare for surgery. <br />
+   Orthoc is  a valuable resource for patients and healthcare professionals alike, providing accurate and reliable information about different surgery to help patients make informed decisions and achieve the best possible outcomes. <br />
+   Some of the resources that Orthoc  offers  include:  <br />
 Information about different types of orthopedic surgery, such as joint replacement surgery, spinal surgery, or arthroscopic surgery. <br />
 Videos or animations that illustrate surgical procedures and techniques. <br />
 Frequently asked questions (FAQs) about orthopedic surgery, recovery, and rehabilitation. <br />
