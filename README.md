@@ -52,6 +52,10 @@ Frequently asked questions (FAQs) about orthopedic surgery, recovery, and rehabi
 <img width="1470" alt="Screenshot 2023-04-26 at 20 50 57" src="https://user-images.githubusercontent.com/131891490/234623646-751225c1-3535-47f7-99a7-177253b0bd15.png">
 <img width="1470" alt="Screenshot 2023-04-26 at 20 51 52" src="https://user-images.githubusercontent.com/131891490/234623673-8f118216-9c3d-483b-9bec-2f28c0c7960e.png">
 
+# Departments 
+<img width="1459" alt="Screenshot 2023-04-27 at 02 36 16" src="https://user-images.githubusercontent.com/131891490/234702905-2909a514-7968-4ad0-b9ea-2c331f666fc4.png">
+
+
 
 
 # About 
