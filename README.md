@@ -4,7 +4,7 @@
 
 # Azure Services Used
 ## Azure Static Web App
-##Azure Health Bot
+## Azure Health Bot
 
 Azure Static Web App Service helps developer to deploy static web apps after deploying files, we can also scale the web app using Azure static web app service.
 Azure Health Bot for Central India region was used by sepcifying web chat secret key, health bot used in my web app helps to engage with patients, provide health information, and deliver personalized care.
