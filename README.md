@@ -16,13 +16,15 @@ Live Video: https://youtu.be/1kcojMIQCq8
 
 ### Screenshots 
 
-# Azure Static WebApp Deployment Portal
-<img width="1254" alt="Screenshot 2023-04-26 at 17 22 22" src="https://user-images.githubusercontent.com/84818493/234566927-ea036815-2614-4c4f-9992-bf1cc8802384.png">
+# Azure Static WebApp  Portal
+<img width="1293" alt="Screenshot 2023-04-26 at 21 28 03" src="https://user-images.githubusercontent.com/131891490/234633531-f9061eb6-23db-489a-b4c5-7d33c2c634c5.png">
+
 
 
 
 # Azure Heath Bot Portal
-<img width="1429" alt="Screenshot 2023-04-26 at 16 49 19" src="https://user-images.githubusercontent.com/84818493/234559883-1abea02c-5b5c-4bcb-b9b0-ffd99fe0bb41.png">
+<img width="1289" alt="Screenshot 2023-04-26 at 21 28 19" src="https://user-images.githubusercontent.com/131891490/234633550-a188059d-da94-4c8f-88a0-892388774069.png">
+
 
 
 
