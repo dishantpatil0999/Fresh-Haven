@@ -7,8 +7,8 @@
 * Azure Health Bot
 
 
-## Static Webapp : https://icy-dune-07a4c1300.3.azurestaticapps.net
-Live Video: https://youtu.be/X2stR0YRbf8
+## Static Webapp : https://orange-mud-0def1f300.3.azurestaticapps.net/
+Live Video: https://youtu.be/1kcojMIQCq8
 
 
 
